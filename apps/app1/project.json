@@ -47,9 +47,6 @@
         "jestConfig": "apps/app1/jest.config.ts",
         "passWithNoTests": true
       }
-    },
-    "lint": {
-      "executor": "@nx/eslint:lint"
     }
   }
 }

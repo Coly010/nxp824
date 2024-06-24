@@ -13,9 +13,6 @@
         "testingType": "e2e",
         "devServerTarget": "app1:serve:development"
       }
-    },
-    "lint": {
-      "executor": "@nx/eslint:lint"
     }
   }
 }
